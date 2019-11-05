@@ -1,0 +1,17 @@
+.save-pdf{
+  color: #ffffff;
+  background-color: #dd1e25;
+}
+
+.download-pdf{
+  color: #ffffff;
+  background-color: #002a5b;
+}
+
+#downloadPDF, #savePDF{
+  display: none;
+}
+
+#createPDF{
+  display: block;
+}
